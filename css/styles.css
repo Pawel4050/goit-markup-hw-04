@@ -127,21 +127,19 @@ button {
 
 .icon-contact {
   margin-right: 10px;
+  fill: #757575;
 }
+
 
 .contact-header:hover,
 .contact-header:focus {
   color: #2196F3;
 }
 
-.icon-contact:hover,
-.icon-contact:focus {
-    color: #2196F3;
-}
-
 .section1 {
   background: #2F303A;
   padding: 200px 0;
+  background-image: url('goit-markup-hw-04\images\Imghw4.jpg');
 }
 
 .motto {
