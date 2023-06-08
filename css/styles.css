@@ -137,9 +137,16 @@ button {
 }
 
 .section1 {
-  background: #2F303A;
+  margin: 0 auto;
+  background-image: linear-gradient(to top,
+        rgba(47, 48, 58, 0.4),
+        rgba(47, 48, 58, 0.4)),
+  url("../images/imghw4.jpg");
+  max-width: 1600px;
+  height: 600px;
   padding: 200px 0;
-  background-image: url('goit-markup-hw-04\images\Imghw4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .motto {
