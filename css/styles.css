@@ -298,17 +298,52 @@ border-radius: 4px;
 }
 
 .icon-s {
-  fill: #AFB1B8;
+ fill: #AFB1B8;
 }
 
 .social-icon:hover .icon-s,
 .social-icon:focus .icon-s {
-  fill: #ffffff;
+ fill: #ffffff;
 }
 
 .social-icon:hover,
 .social-icon:focus {
 background: #2196F3;
+}
+
+.section-customers {
+  padding: 94px 0;
+}
+
+.h2-customers {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+  margin-bottom: 50px;
+}
+
+.customers-icons-list {
+  display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.customers-icon-box {
+  width: 170px;
+  height: 92px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #AFB1B8;
+  border-radius: 4px;
+}
+
+.client-ico:hover,
+.client-ico:focus {
+  color: #2196F3;
 }
 
 .footer {
