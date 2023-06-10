@@ -131,6 +131,11 @@ button {
 }
 
 
+.contact-header:hover .icon-contact,
+.contact-header:focus .icon-contact {
+   fill: #2196F3
+}
+
 .contact-header:hover,
 .contact-header:focus {
   color: #2196F3;
@@ -294,6 +299,16 @@ border-radius: 4px;
 
 .icon-s {
   fill: #AFB1B8;
+}
+
+.social-icon:hover .icon-s,
+.social-icon:focus .icon-s {
+  fill: #ffffff;
+}
+
+.social-icon:hover,
+.social-icon:focus {
+background: #2196F3;
 }
 
 .footer {
