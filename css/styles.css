@@ -328,23 +328,31 @@ background: #2196F3;
 .customers-icons-list {
   display: flex;
   gap: 30px;
-  justify-content: center;
 }
 
 .customers-icon-box {
   width: 170px;
   height: 92px;
+}
+
+.client-ico {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
+  height: 100%;
   border: 1px solid #AFB1B8;
   border-radius: 4px;
 }
 
-.section-customers:hover,
-.section-customers:focus {
+.icon-klienci{
+  fill: #AFB1B8;
+}
+.customers-icons-box:hover,
+.customers-icons-box:focus {
   color: #2196F3;
 }
+
 
 .bottom {
   display: flex;
