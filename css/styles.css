@@ -445,6 +445,10 @@ background: #2196F3;
   background: #2196F3;
 }
 
+.client-ico:hover {
+  color: #2196F3;
+}
+
 .button-portfolio {
   font-family: "Roboto";
     font-style: normal;
