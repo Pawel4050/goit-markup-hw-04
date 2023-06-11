@@ -1,3 +1,11 @@
+:root {
+  /*----- main colors -----*/
+  --main-text-color: #212121;
+  --secondary-text-color: #ffffff;
+  --acent-color: #2196f3;
+}
+
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #212121;
@@ -105,7 +113,7 @@ button {
 
 .bookmark:hover,
 .bookmark:focus {
-  color: #2196F3;
+  color: var(--acent-color);
 }
 
 .contact-list {
