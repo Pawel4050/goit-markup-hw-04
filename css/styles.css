@@ -322,9 +322,10 @@ padding-bottom: 120px;
         list-style: none;
 }
 
-.customer-list-li {
+.customers-list-li {
         width: calc((100% - 120px) / 6);
         height: 88px;
+
 
 }
 
