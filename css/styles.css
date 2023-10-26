@@ -299,6 +299,9 @@ padding-bottom: 120px;
 .social-icon-link:focus {
   background-color: #404bbf;
 }
+.social-icon {
+        fill: #f4f4fd;
+}
 
 .footer {
         background-color: var(--brand-color);
