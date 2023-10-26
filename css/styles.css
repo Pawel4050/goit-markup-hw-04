@@ -294,9 +294,9 @@ padding-bottom: 120px;
         justify-content: center;
 }
 
-.social-icon:hover,
-.social-icon:active,
-.social-icon:focus {
+.social-icon-link:hover,
+.social-icon-link:active,
+.social-icon-link:focus {
   background-color: #404bbf;
 }
 
