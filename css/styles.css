@@ -325,8 +325,6 @@ padding-bottom: 120px;
 .customers-list-li {
         width: calc((100% - 120px) / 6);
         height: 88px;
-
-
 }
 
 .customer-icon-link {
