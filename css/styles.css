@@ -338,9 +338,9 @@ padding-bottom: 120px;
         color: #8e8f99;
 }
 
-.customers-list-li:hover,
-.customers-list-li:focus,
-.customer-list-li:active {
+.customer-icon-link:hover,
+.customer-icon-link:focus,
+.customer-icon-link:active {
         border-color: #404bbf;
         color: #404bbf;
 }
