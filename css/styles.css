@@ -295,7 +295,8 @@ padding-bottom: 120px;
 }
 
 .social-icon:hover,
-.social-icon:active {
+.social-icon:active,
+.social-icon:focus {
   background-color: #404bbf;
 }
 
