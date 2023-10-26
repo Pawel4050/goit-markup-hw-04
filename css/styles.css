@@ -345,6 +345,10 @@ padding-bottom: 120px;
         color: #404bbf;
 }
 
+.customer-icon {
+        fill: currentColor;
+}
+
 .footer {
         background-color: var(--brand-color);
         padding: 100px 0;       
