@@ -271,6 +271,12 @@ padding-bottom: 120px;
                 color: var(--slate-color);
 }
 
+.social-icons-list {
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+}
+
 .footer {
         background-color: var(--brand-color);
         padding: 100px 0;
