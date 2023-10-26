@@ -104,7 +104,7 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .section-one {
         background-color: var(--brand-color);
         padding: 188px 0;
-        background-image: url(https://github.com/Pawel4050/goit-markup-hw-04/blob/main/images/peopleoffice.jpg?raw=true);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/peopleoffice.jpg);
 }
 
 .motto {
