@@ -333,6 +333,7 @@ padding-bottom: 120px;
         height: 100%;
         border: 1px solid #8e8f99;
         border-radius: 4px;
+        display: flex;
 }
 
 .footer {
