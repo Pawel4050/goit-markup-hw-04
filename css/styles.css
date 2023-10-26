@@ -359,6 +359,11 @@ padding-bottom: 120px;
         align-items: baseline;
 }
 
+.logo-p-div {
+        margin-right: 120px;
+        
+}
+
 .logo-link-footer {
         text-decoration: none;
                 font-family: Raleway;
