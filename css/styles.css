@@ -403,7 +403,12 @@ padding-bottom: 120px;
 }
 
 .social-list-footer-li {
-        
+        height: 40px;
+}
+
+.social-list-footer-link {
+        width: 100%;
+        height: 100%;
 }
 
 .section-portfolio {
