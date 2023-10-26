@@ -361,7 +361,17 @@ padding-bottom: 120px;
 
 .logo-p-div {
         margin-right: 120px;
-        
+
+}
+
+.social-media-p-footer {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+        margin-bottom: 16px;
+
 }
 
 .logo-link-footer {
