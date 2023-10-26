@@ -319,13 +319,12 @@ padding-bottom: 120px;
 .customers-list {
         display: flex;
         gap: 24px;
-
+        list-style: none;
 }
 
 .footer {
         background-color: var(--brand-color);
-        padding: 100px 0;
-        
+        padding: 100px 0;       
 }
 
 .logo-link-footer {
