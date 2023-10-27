@@ -482,7 +482,7 @@ border-radius: 4px;
 
 .portfolio-link {
         text-decoration: none;
-        display: flex;
+        display: block;
 }
 
 .portfolio-link:hover,
