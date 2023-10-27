@@ -309,6 +309,10 @@ padding-bottom: 120px;
         padding-bottom: 120px;
 }
 
+.div-customers {
+        display: flex;
+        flex-direction: column;
+}
 .customers {
         font-size: 36px;
         line-height: 1.11;
