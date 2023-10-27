@@ -311,7 +311,7 @@ padding-bottom: 120px;
 
 .div-customers {
         display: flex;
-        flex-direction: column;
+        justify-content: center;
 }
 .customers {
         font-size: 36px;
