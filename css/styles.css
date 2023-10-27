@@ -482,6 +482,7 @@ border-radius: 4px;
 
 .portfolio-link {
         text-decoration: none;
+        display: flex;
 }
 
 .header-two {
