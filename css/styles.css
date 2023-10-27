@@ -418,6 +418,15 @@ padding-bottom: 120px;
         justify-content: center;
 }
 
+.social-list-footer-link:hover,
+.social-list-footer-link:focus {
+        background-color: #31d0aa;
+}
+
+.social-icon-footer {
+        fill: #f4f4fd;
+}
+
 .section-portfolio {
         padding-top: 96px; padding-bottom: 120px;
 }
